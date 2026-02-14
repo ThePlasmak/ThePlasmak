@@ -1,4 +1,4 @@
-# Hi, I'm Sarah Mak 👋
+# Hi, I'm Sarah Mak! 🔥
 
 I'm a game writer and narrative designer from Singapore. I make story-rich video games, interactive fiction, and poetry—and lots of automation scripts.
 
