@@ -12,4 +12,4 @@ I'm a writer and narrative designer from Singapore. I make story-rich video game
 
 ## Links
 
-🌐 [Website](https://www.sarahmakmq.com/) · 📰 [Blog](https://sarahmakmq.substack.com/) · 🎮 [Itch.io](https://plasmak.itch.io/)
+🌐 [Website](https://www.sarahmakmq.com/) · 📰 [Substack](https://sarahmakmq.substack.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/sarahmakesstuff/) · 📸 [Instagram](https://instagram.com/sarahmak.esstuff) · 🎮 [Itch.io](https://plasmak.itch.io/)
