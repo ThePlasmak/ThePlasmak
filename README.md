@@ -1,13 +1,13 @@
 # Hi, I'm Sarah Mak 👋
 
-Writer and narrative designer from Singapore. I make story-rich video games, interactive fiction, and poetry.
+I'm a game writer and narrative designer from Singapore. I make story-rich video games, interactive fiction, and poetry—and lots of automation scripts.
 
 ## What I Do
 
 - 🎮 **Game writing & narrative design** — currently working on several video game projects
 - 📝 **Interactive fiction** — my game [*You Can't Save Her*](https://plasmak.itch.io/you-cant-save-her) won awards at the 2024 [Short Games Showcase](https://itch.io/jam/short-games-showcase-2024)
-- ✍️ **Poetry** — published in QLRS, Eunoia Review, and Silver Birch Press; member of [zer0sleep](https://www.singlitstation.com/) collective
-- 🕹️ **Game jams** — I design, write, and PM frankenbabies with cool people
+- ✍️ **Poetry** — published in QLRS and Eunoia Review; member of [zer0sleep](https://www.singlitstation.com/) writing collective
+- 🕹️ **Game jams** — I design and write little frankenbabies with cool people
 
 ## On GitHub
 
@@ -15,4 +15,4 @@ You'll find my [personal website](https://www.sarahmakmq.com/), Twine projects, 
 
 ## Links
 
-🌐 [sarahmakmq.com](https://www.sarahmakmq.com/) · 📰 [Blog](https://sarahmakmq.substack.com/) · 🎮 [itch.io](https://plasmak.itch.io/)
+🌐 [Website](https://www.sarahmakmq.com/) · 📰 [Blog](https://sarahmakmq.substack.com/) · 🎮 [Itch.io](https://plasmak.itch.io/)
