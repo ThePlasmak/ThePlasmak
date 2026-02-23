@@ -14,4 +14,4 @@ I **mak**e story-rich video games, interactive fiction, and poetry—and lots of
 
 ## Links
 
-🌐 [Website](https://www.sarahmakmq.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/sarahmakesstuff/) · 📸 [Instagram](https://instagram.com/sarahmakmq) · 📰 [Substack](https://sarahmakmq.substack.com/) · 🎮 [Itch.io](https://plasmak.itch.io/)
+🌐 [Website](https://www.sarahmakmq.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/sarahmakmq/) · 📸 [Instagram](https://instagram.com/sarahmakmq) · 📰 [Substack](https://sarahmakmq.substack.com/) · 🎮 [Itch.io](https://plasmak.itch.io/)
