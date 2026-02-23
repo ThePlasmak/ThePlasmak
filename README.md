@@ -2,7 +2,7 @@
 
 I'm a writer and narrative designer from Singapore.
 
-I make story-rich video games, interactive fiction, and poetry—and lots of automation scripts.
+I **mak**e story-rich video games, interactive fiction, and poetry—and lots of automation scripts.
 
 ## What I *Mak*e
 
